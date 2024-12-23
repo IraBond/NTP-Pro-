@@ -5,8 +5,7 @@
 
 > *Because time waits for no one, but it does sync better with AI!* ⚡️
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 Would you like help adding these to a specific project or customizing them further?
 
