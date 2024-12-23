@@ -1,13 +1,14 @@
 # 🚀 NTP Premium Pro Plus™ (NTP++) 
 
 ![C27F5714-21E0-4DDF-8B4B-48F60A4C336D_1_105_c](https://github.com/user-attachments/assets/6c27244b-dde2-491b-8d96-7e6c45255d00)
-6-E1C51A9C92B4.webp)![C27F5714-21E0-4DDF-8B4B-48F60A4C336D_1_105_c](https://github.com/user-attachments/assets/a8a134a7-1123-404e-8d6b-09997427b81d)
 
 
 > *Because time waits for no one, but it does sync better with AI!* ⚡️
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/build.yml)![Version](https://img.shields.io/github/v/release/user/repo)![Coverage](https://img.shields.io/codecov/c/github/user/repo)![GitHub Stars](https://img.shields.io/github/stars/user/repo)![Good First Issue](https://img.shields.io/github/labels/user/repo/good%20first%20issue)![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
+
+Would you like help adding these to a specific project or customizing them further?
 
 ## 📜 The Time-ly Tale
 
